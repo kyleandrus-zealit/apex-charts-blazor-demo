@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|c:\\users\\kyle andrus\\repos\\apex-charts-blazor-demo\\apexchartsblazordemo\\apexchartsblazordemo\\components\\pages\\graphs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|solutionrelative:apexchartsblazordemo\\components\\pages\\graphs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|c:\\users\\kyle andrus\\repos\\apex-charts-blazor-demo\\apexchartsblazordemo\\apexchartsblazordemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|solutionrelative:apexchartsblazordemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|c:\\users\\kyle andrus\\repos\\apex-charts-blazor-demo\\apexchartsblazordemo\\apexchartsblazordemo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|solutionrelative:apexchartsblazordemo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|c:\\users\\kyle andrus\\repos\\apex-charts-blazor-demo\\apexchartsblazordemo\\apexchartsblazordemo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|solutionrelative:apexchartsblazordemo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|c:\\users\\kyle andrus\\repos\\apex-charts-blazor-demo\\apexchartsblazordemo\\apexchartsblazordemo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|solutionrelative:apexchartsblazordemo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|c:\\users\\kyle andrus\\repos\\apex-charts-blazor-demo\\apexchartsblazordemo\\apexchartsblazordemo\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|solutionrelative:apexchartsblazordemo\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|c:\\users\\kyle andrus\\repos\\apex-charts-blazor-demo\\apexchartsblazordemo\\apexchartsblazordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|solutionrelative:apexchartsblazordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|c:\\users\\kyle andrus\\repos\\apex-charts-blazor-demo\\apexchartsblazordemo\\apexchartsblazordemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|solutionrelative:apexchartsblazordemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|c:\\users\\kyle andrus\\repos\\apex-charts-blazor-demo\\apexchartsblazordemo\\apexchartsblazordemo\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{666A4A3A-B3AF-4632-94FC-E05D9C3BF129}|ApexChartsBlazorDemo\\ApexChartsBlazorDemo.csproj|solutionrelative:apexchartsblazordemo\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ApexChartsBlazorDemo\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ApexChartsBlazorDemo\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:40:43.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "ApexChartsBlazorDemo\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "ApexChartsBlazorDemo\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:40:37.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ApexChartsBlazorDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\Program.cs",
+              "RelativeToolTip": "ApexChartsBlazorDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:40:20.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "ApexChartsBlazorDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\appsettings.json",
+              "RelativeToolTip": "ApexChartsBlazorDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T20:40:18.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "ApexChartsBlazorDemo\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\Components\\_Imports.razor",
+              "RelativeToolTip": "ApexChartsBlazorDemo\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:40:06.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\Components\\App.razor",
+              "RelativeDocumentMoniker": "ApexChartsBlazorDemo\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\Components\\App.razor",
+              "RelativeToolTip": "ApexChartsBlazorDemo\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:40:01.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "ApexChartsBlazorDemo\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\Components\\Routes.razor",
+              "RelativeToolTip": "ApexChartsBlazorDemo\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:39:59.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "ApexChartsBlazorDemo\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "ApexChartsBlazorDemo\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:39:32.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graphs.razor",
+              "DocumentMoniker": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\Components\\Pages\\Graphs.razor",
+              "RelativeDocumentMoniker": "ApexChartsBlazorDemo\\Components\\Pages\\Graphs.razor",
+              "ToolTip": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\Components\\Pages\\Graphs.razor",
+              "RelativeToolTip": "ApexChartsBlazorDemo\\Components\\Pages\\Graphs.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:34:33.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
