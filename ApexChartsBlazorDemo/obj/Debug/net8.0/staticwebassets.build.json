@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "707UwE/IinsfUkWnRr+xVNyI0NTf8PmDKsWDesfjlVc=",
+  "Hash": "RBWLwYKPSEbNGCCZhWXf+aeAJMsXMlY5VI9VmqLoxZQ=",
   "Source": "ApexChartsBlazorDemo",
   "BasePath": "_content/ApexChartsBlazorDemo",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "ApexChartsBlazorDemo\\wwwroot",
       "Source": "ApexChartsBlazorDemo",
-      "ContentRoot": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\",
       "BasePath": "_content/ApexChartsBlazorDemo",
       "Pattern": "**"
     }
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "C:\\Users\\Kyle Andrus\\.nuget\\packages\\blazor-apexcharts\\5.0.1\\staticwebassets\\locales\\zh-tw.json"
     },
     {
-      "Identity": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ApexChartsBlazorDemo.styles.css",
+      "Identity": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ApexChartsBlazorDemo.styles.css",
       "SourceId": "ApexChartsBlazorDemo",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ApexChartsBlazorDemo",
       "RelativePath": "ApexChartsBlazorDemo#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -1022,13 +1022,13 @@
       "Integrity": "/3Z3P8ZtodBNf7Kx8m+cz35Gvw4o15ykfTvaUa0INu0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ApexChartsBlazorDemo.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ApexChartsBlazorDemo.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ApexChartsBlazorDemo.bundle.scp.css",
+      "Identity": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ApexChartsBlazorDemo.bundle.scp.css",
       "SourceId": "ApexChartsBlazorDemo",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ApexChartsBlazorDemo",
       "RelativePath": "ApexChartsBlazorDemo#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -1043,13 +1043,13 @@
       "Integrity": "/3Z3P8ZtodBNf7Kx8m+cz35Gvw4o15ykfTvaUa0INu0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ApexChartsBlazorDemo.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ApexChartsBlazorDemo.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\app.css",
       "SourceId": "ApexChartsBlazorDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\",
       "BasePath": "_content/ApexChartsBlazorDemo",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "ApexChartsBlazorDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\",
       "BasePath": "_content/ApexChartsBlazorDemo",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "ApexChartsBlazorDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\",
       "BasePath": "_content/ApexChartsBlazorDemo",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\favicon.png",
       "SourceId": "ApexChartsBlazorDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\",
       "BasePath": "_content/ApexChartsBlazorDemo",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -2872,7 +2872,7 @@
     },
     {
       "Route": "ApexChartsBlazorDemo.3zhkv0a39t.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ApexChartsBlazorDemo.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ApexChartsBlazorDemo.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2917,7 +2917,7 @@
     },
     {
       "Route": "ApexChartsBlazorDemo.3zhkv0a39t.styles.css",
-      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ApexChartsBlazorDemo.styles.css",
+      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ApexChartsBlazorDemo.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2962,7 +2962,7 @@
     },
     {
       "Route": "ApexChartsBlazorDemo.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ApexChartsBlazorDemo.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ApexChartsBlazorDemo.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2999,7 +2999,7 @@
     },
     {
       "Route": "ApexChartsBlazorDemo.styles.css",
-      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ApexChartsBlazorDemo.styles.css",
+      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ApexChartsBlazorDemo.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3036,7 +3036,7 @@
     },
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3073,7 +3073,7 @@
     },
     {
       "Route": "app.da95v2qkru.css",
-      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3118,7 +3118,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3163,7 +3163,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3200,7 +3200,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3245,7 +3245,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3282,7 +3282,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3327,7 +3327,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\ApexChartsBlazorDemo\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\Kyle Andrus\\repos\\apex-charts-blazor-demo\\ApexChartsBlazorDemo\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {

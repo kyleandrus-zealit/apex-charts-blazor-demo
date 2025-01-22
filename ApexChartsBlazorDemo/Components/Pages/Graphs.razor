@@ -7,7 +7,8 @@
 <h1>Graphs</h1>
 
 <ApexChart TItem="MyData"
-           Title="Kyle's' Chart">
+           Title="Kyle's' Chart"
+           Options=ChartOptions>
 
     <ApexPointSeries TItem="MyData"
                      Items="Data"
@@ -26,11 +27,96 @@
 
 @code {
     private List<MyData> Data { get; set; } = new();
+    private ApexChartOptions<MyData> ChartOptions { get; set; } = new();
     protected override void OnInitialized()
     {
         Data.Add(new MyData { Category = "Jan", NetProfit = 12, Revenue = 33 });
         Data.Add(new MyData { Category = "Feb", NetProfit = 43, Revenue = 42 });
         Data.Add(new MyData { Category = "Mar", NetProfit = 112, Revenue = 23 });
+
+        ChartOptions = new ApexChartOptions<MyData>
+            {
+                Chart = new Chart
+                {
+                    Type = ChartType.Bar,
+                    Height = 400,
+                    Toolbar = new Toolbar
+                    {
+                        Show = true
+                    }
+                },
+                Subtitle = new Subtitle // We can use subtitles to add an extra line of text between the graph and legend, but positioning the expected values underneath the bars will take some creativity...
+                {
+                    Text = "Expected:\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A066",
+                    Align = Align.Left,
+                    OffsetX = 8,
+                    OffsetY = 360,
+                    Style = new SubtitleStyle
+                    {
+                        FontSize = "14px",
+                        Color = "#666"
+                    }
+                },
+                Xaxis = new XAxis
+                {  
+                    Title = new AxisTitle { Text = "Month" },
+                    Position = XAxisPosition.Top,
+                    Labels = new XAxisLabels
+                    {
+                        Rotate = -45
+                    },
+                    Group = new XAxisGroups // Groups are one way we can add extra labels to the X axis, but can't be moved to the bottom without some custom .css
+                    {   
+                        Style = new XAxisGroupStyle
+                        {
+                            CssClass = "someclass.css"
+                        },
+                        Groups = new List<XAxisGroup>()
+                        {
+                            new XAxisGroup
+                            {
+                                Title = "67",
+                                Cols = 1
+                            },
+                            new XAxisGroup
+                            {
+                                Title = "94",
+                                Cols = 1
+                            },
+                            new XAxisGroup
+                            {
+                                Title = "43",
+                                Cols = 1
+                            },
+                        }
+                    }
+                },
+                Yaxis = new List<YAxis> // Unfortuntely, multiple X-axis aren't supported even though they are for Y-axis
+                {
+                    new YAxis
+                    {
+                        Title = new AxisTitle { Text = "Values ($)" },
+                        Labels = new YAxisLabels
+                        {
+                            Formatter = "function(value) { return '$' + value; }"
+                        }
+                    }
+                },
+                Colors = new() { "#4242f5", "#ed133f" },
+                Grid = new Grid
+                {
+                    Show = true,
+                    BorderColor = "#ccc"
+                },
+                Tooltip = new Tooltip
+                {
+                    Enabled = true,
+                    Y = new TooltipY
+                    {
+                        Formatter = "function(value) { return '$' + value; }"
+                    }
+                }
+            };
     }
 
     public class MyData
